@@ -1,0 +1,27 @@
+{
+  "name": "js-design-patterns",
+  "version": "0.0.1",
+  "description": "collection of design patterns",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisickilukasz/js-design-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "design-patterns"
+  ],
+  "author": "Łukasz Kisicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kisickilukasz/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/kisickilukasz/js-design-patterns#readme"
+}
